@@ -1,0 +1,22 @@
+table, td, th{
+    border-collapse: collapse;
+    border: 1px solid gray;
+
+}
+
+th{
+    background-color: #008860;
+    color: white;
+    font-size: 12px;
+}
+.qh, .ej{
+    width: 300px;
+}
+
+body{
+    font-size: 13px;
+}
+
+th{
+    width: 90px;
+}
